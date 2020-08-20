@@ -1,5 +1,4 @@
 # React Native Boilerplate / Architecture
-===========================================
 
 ### This architecture is configured with react-navigation, redux, redux-saga and redux-persist.
 

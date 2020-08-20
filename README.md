@@ -30,5 +30,3 @@
     * Open `android/app` in android studio and wait for indexing and synching the project. Then run `npx react-native run-android` or hit `Run` button after selecting device or emulator from android studio
     * If connection error occur, try running command `adb reverse tcp:8081 tcp:8081` to reverse proxy then retry.
 12. There You Go !!!!
-
-# React-Native-Boilerplate-Architecture

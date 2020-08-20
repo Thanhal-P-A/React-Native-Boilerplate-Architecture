@@ -32,3 +32,4 @@
     * If connection error occur, try running command `adb reverse tcp:8081 tcp:8081` to reverse proxy then retry.
 12. There You Go !!!!
 
+# React-Native-Boilerplate-Architecture
